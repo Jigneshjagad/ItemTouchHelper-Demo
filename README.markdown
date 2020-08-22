@@ -1,4 +1,4 @@
-This project is an example of basic drag & drop and swipe-to-dismiss with `RecyclerView` using `ItemTouchHelper`. It corresponds with an article series found here:
+This project is an example of basic drag & drop and swipe-to-dismiss with `RecyclerView` using `ItemTouchHelper`. 
 
 Developed by Jignesh Jagad
 
