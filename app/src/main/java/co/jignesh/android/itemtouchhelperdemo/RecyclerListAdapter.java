@@ -70,7 +70,6 @@ public class RecyclerListAdapter extends RecyclerView.Adapter<RecyclerListAdapte
         holder.handleView.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
-//                if (MotionEventCompat.getActionMasked(event) == MotionEvent.ACTION_DOWN) {
                 if (event.getAction() == MotionEvent.ACTION_DOWN) {
                     mDragStartListener.onStartDrag(holder);
                 }
