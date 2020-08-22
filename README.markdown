@@ -1,5 +1,3 @@
-## Another drag and swipe library?
-
 This project is an example of basic drag & drop and swipe-to-dismiss with `RecyclerView` using `ItemTouchHelper`. It corresponds with an article series found here:
 
 Developed by Jignesh Jagad
